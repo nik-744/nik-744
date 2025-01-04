@@ -18,6 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nik-744&show_icons=true&locale=en&layout=compact" alt="nik-744" /></p>
 
- ![Snake animation](https://github.com/nik-744/nik-744/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+![Snake animation](https://raw.githubusercontent.com/nik-744/nik-744/output/github-contribution-grid-snake-dark.svg)
