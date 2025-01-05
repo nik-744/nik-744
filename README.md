@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Kanojiya</h1>
+se<h1 align="center">Hi 👋, I'm Nikhil Kanojiya</h1>
 <h3 align="center">A passionate DataScientist from India</h3>
 
 - 🌱 I’m currently learning **GAN**
@@ -18,3 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nik-744&show_icons=true&locale=en&layout=compact" alt="nik-744" /></p>
 
+![GitHub Snake Animation](https://github.com/nik-744/nik-744/blob/output/snake.svg)
