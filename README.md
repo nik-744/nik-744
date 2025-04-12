@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kanojiya</h1>
 <h3 align="center">A passionate DataScientist from India</h3>
 
-- 🌱 I’m currently learning **GAN**
-
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/niksz](https://www.datascienceportfol.io/niksz)
 
 - 📫 How to reach me **kanojiyanikhil233@gmail.com**
